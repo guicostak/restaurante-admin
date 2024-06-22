@@ -1,0 +1,22 @@
+# Dependencias de npm
+/node_modules
+
+# Archivos de construcción y compilación
+/build
+/dist
+
+# Archivos de configuración
+/.env
+
+# Archivos generados por el editor
+/.vscode
+/.idea
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
+
+# Otros archivos y carpetas
+.DS_Store
+Thumbs.db
